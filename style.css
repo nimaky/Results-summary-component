@@ -28,10 +28,10 @@
     padding: 0;
     margin: 0;
 }
-@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&family=Poppins:wght@500;700;800&display=swap');
+
 @font-face {
     font-family: 'HankenGrotesk';
-    src: url("/assets/fonts/HankenGrotesk-VariableFont_wght.ttf");
+    src: url("https://nimaky.github.io/Results-summary-component/HankenGrotesk-VariableFont_wght.ttf");
 }
 body{
     font-family: 'HankenGrotesk', 'Poppins', sans-serif;
